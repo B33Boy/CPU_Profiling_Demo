@@ -2,7 +2,8 @@
 
 Runs a simple demo to demonstrate the use of perf to profile C++ code and discover bottlenecks. In this example we iterate through a loop in row-major and column-major order (see below), and see the difference in performance. 
 
-![rm-cm](https://upload.wikimedia.org/wikipedia/commons/4/4d/Row_and_column_major_order.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Row_and_column_major_order.svg" width="200" alt="row-major column major">
+
 
 ## 1. Compile and Run
 ```bash
